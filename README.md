@@ -11,7 +11,9 @@ COP 4655 RVCC 1245
 Professor Richard Whittacker
 
 Github Organization: https://github.com/Mobile-CodeCraft
+
 Github Project: https://github.com/orgs/Mobile-CodeCraft/projects/2
+
 Github Repository: https://github.com/Mobile-CodeCraft/ChatterBox-Application/tree/main
 
 _____________________________________________________________________________________________________________
