@@ -32,11 +32,11 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 ### Features
-- User Authentication
-- Contacts
-- Push Notifications
-- Status updates
-- Real-time messaging 
+- User Authentication: Elizabeth and Marie
+- Contacts: Javier Guevara
+- Push Notifications: Matthew Neal
+- Status Updates: Marie Haccandy
+- Real-time Messaging: Elizabeth Fassler 
 
 _____________________________________________________________________________________________________________
 
