@@ -42,6 +42,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 ## ChatterBox File Structure
+```sh
 SwiftUIChatApp/
 │
 ├── SwiftUIChatApp.xcodeproj/
@@ -122,4 +123,4 @@ SwiftUIChatApp/
 ├── Podfile                                  // CocoaPods Podfile
 ├── README.md                                // Project README file
 └── .gitignore                               // Git ignore file
-
+```
