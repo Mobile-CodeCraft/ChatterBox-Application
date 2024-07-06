@@ -18,7 +18,7 @@ Github Repository: https://github.com/Mobile-CodeCraft/ChatterBox-Application/tr
 
 _____________________________________________________________________________________________________________
 Elizabeth Fassler: Created team project organization, repository, and readme file on Github.
-- Created mobile application file structure for both front end and back end of project.
+- Created mobile application file directory structure for both front end and back end of project.
 _____________________________________________________________________________________________________________
 Marie Haccandy:
 _____________________________________________________________________________________________________________
