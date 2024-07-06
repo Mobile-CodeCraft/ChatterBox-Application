@@ -53,12 +53,12 @@ ________________________________________________________________________________
 
 ## ChatterBox File Structure
 ``` sh
-SwiftUIChatApp/
+ChatterBox-Application/
 │
-├── SwiftUIChatApp.xcodeproj/
-├── SwiftUIChatApp/
+├── ChatterBoxApp.xcodeproj/
+├── ChatterBoxApp/
 │   ├── App/
-│   │   ├── SwiftUIChatAppApp.swift           // Main App Entry Point
+│   │   ├── ChatterBoxAppApp.swift           // Main App Entry Point
 │   │   ├── AppDelegate.swift                 // App Delegate for Push Notifications
 │   │   ├── SceneDelegate.swift               // Scene Delegate
 │   │   └── Constants.swift                   // App-wide constants and configurations
