@@ -32,7 +32,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 
 ### Features
-- User Authentication: Elizabeth and Marie
+- User Authentication: Elizabeth Fassler
 - Contacts: Javier Guevara
 - Push Notifications: Matthew Neal
 - Status Updates: Marie Haccandy
