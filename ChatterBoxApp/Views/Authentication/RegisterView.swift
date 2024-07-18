@@ -29,7 +29,7 @@ struct RegisterView: View {
                 Image(systemName: "mail")
                     .foregroundColor(.gray)
                 TextField("Email", text: $email)
-                    .foregroundColor(.gray)
+                    .foregroundColor(.black)
                     .font(.title)
                     .fontWeight(.bold)
                 
@@ -58,7 +58,7 @@ struct RegisterView: View {
                 Image(systemName: "lock")
                     .foregroundColor(.gray)
                 TextField("Password", text: $password)
-                    .foregroundColor(.gray)
+                    .foregroundColor(.black)
                     .font(.title)
                     .fontWeight(.bold)
             
@@ -83,7 +83,7 @@ struct RegisterView: View {
                     presentationMode.wrappedValue.dismiss()
                 }) {
                     Text("Cancel")
-                        .foregroundColor(.gray)
+                        .foregroundColor(.black)
                         .font(.title)
                 }
                 
@@ -109,7 +109,7 @@ struct RegisterView: View {
                     presentationMode.wrappedValue.dismiss()
                 }) {
                     Text("Create Account")
-                        .foregroundColor(.gray)
+                        .foregroundColor(.black)
                         .font(.title)
                 }
                 
