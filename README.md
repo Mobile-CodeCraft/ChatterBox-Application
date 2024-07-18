@@ -58,7 +58,7 @@ ChatterBox-Application/
 ├── ChatterBoxApp.xcodeproj/
 ├── ChatterBoxApp/
 │   ├── App/
-│   │   ├── ChatterBoxAppApp.swift           // Main App Entry Point
+│   │   ├── ChatterBoxAppApp.swift            // Elizabeth Fassler
 │   │   ├── AppDelegate.swift                 // App Delegate for Push Notifications
 │   │   ├── SceneDelegate.swift               // Scene Delegate
 │   │   └── Constants.swift                   // App-wide constants and configurations
@@ -79,8 +79,8 @@ ChatterBox-Application/
 │   │
 │   ├── Views/
 │   │   ├── Authentication/
-│   │   │   ├── LoginView.swift                // Login screen
-│   │   │   ├── RegisterView.swift             // Registration screen
+│   │   │   ├── LoginView.swift                // Elizabeth Fassler
+│   │   │   ├── RegisterView.swift             // Elizabeth Fassler
 │   │   │   └── ForgotPasswordView.swift       // Password recovery screen
 │   │   │
 │   │   ├── Main/
@@ -96,7 +96,7 @@ ChatterBox-Application/
 │   │   │   └── NewMessageView.swift           // New message input view
 │   │   │
 │   │   ├── Components/
-│   │   │   ├── UserAvatarView.swift           // User avatar component
+│   │   │   ├── TitleRow.swift                 // Elizabeth Fassler
 │   │   │   ├── StatusIndicatorView.swift      // Online/Offline status indicator
 │   │   │   └── LoadingView.swift              // Loading indicator component
 │   │   │
