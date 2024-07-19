@@ -57,46 +57,46 @@ ChatterBox-Application/
 │
 ├── ChatterBoxApp.xcodeproj/
 ├── ChatterBoxApp/
-│   
-│   ├── ChatterBoxAppApp.swift            // Elizabeth Fassler
-│   ├── ContentView.swift                 // Elizabeth Fassler
-│   ├──                                   // 
-│   └──                                   // 
+│                                      
+│   ├── Controllers/
+│   │   ├── Authentication/                
+│   │   │    ├── LoginView.swift           // Elizabeth Fassler
+│   │   │    └── RegisterView.swift        // Elizabeth Fassler 
+│   │   ├── ChatView.swift                 // Elizabeth Fassler
+│   │   ├── ConversationView.swift         // Elizabeth Fassler
+│   │   ├── LocationView.swift             // Elizabeth Fassler
+│   │   ├── NewConversationView.swift      // Elizabeth Fassler
+│   │   ├── PhotoView.swift                // Elizabeth Fassler 
+│   │   └── ProfileVIew.swift              // Elizabeth Fassler 
 │   │
 │   ├── Models/
-│   │   ├── Message.swift                  // Elizabeth Fassler
-│   │   ├──                                // 
-│   │   ├──                                // 
-│   │   ├──                                // 
-│   │   └──                                // 
+│   │   ├── ChatModels.swift
+│   │   ├── ConversationModel.swift
+│   │   ├── ProfileVIewModel.swift                                 
+│   │   └── SearchModel.swift                                                                     
 │   │
-│   ├── Authentication/
-│   │   ├── LoginView.swift                 // Elizabeth Fassler
-│   │   ├── RegisterView.swift              // Elizabeth Fassler
-│   │   ├──                                 // 
-│   │   ├──                                 // 
-│   │   └──                                 // 
-│   │
-│   ├── Extentions/
-│   │   └── String.swift                    // Elizabeth Fassler
+│   ├── Resources/
+│   │   ├──
+│   │   ├──
+│   │   ├──
+│   │   ├──
+│   │   └── 
 │   │   
-│   ├── Components/
-│   │   ├── TitleRow.swift                 // Elizabeth Fassler
-│   │   ├── MessageBubble.swift            // Elizabeth Fassler
-│   │   ├──                                // 
-│   │   ├──                                // 
-│   │   └──                                // 
+│   ├── Views/
+│   ├── Assets.xcassets                    // Elizabeth Fassler 
+│   │   ├── 
+│   │   ├──                                
+│   │   ├──                                 
+│   │   └──                                 
 │   │   
 │   │
 │   │
-│   ├── Assets.xcassets                        // Elizabeth Fassler
-│   ├── GoogleService-Info.plist               // Elizabeth Fassler  
+│   ├── GoogleService-Info.plist           // Elizabeth Fassler  
 │   ├── Info.plist                                   
 │   ├──                            
 │   └──                          
 │
-├── Pods/                                     // CocoaPods dependencies
-├── Podfile                                   // CocoaPods Podfile
 ├── README.md                                 // Project README file
+├── .gitattributes                           
 └── .gitignore                                // Git ignore file
 ```
