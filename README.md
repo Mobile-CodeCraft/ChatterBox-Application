@@ -44,11 +44,11 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________
 
-<img width="275" alt="Screenshot 2024-07-19 at 11 17 13 PM" src="https://github.com/user-attachments/assets/562021b8-edbf-478f-a49f-de89ae016852">
+<img width="215" alt="Screenshot 2024-07-19 at 11 17 13 PM" src="https://github.com/user-attachments/assets/562021b8-edbf-478f-a49f-de89ae016852">
 
-<img width="275" alt="Screenshot 2024-07-19 at 11 16 14 PM" src="https://github.com/user-attachments/assets/d210ba52-ecaa-4288-8e0b-12c4c0112ea6">
+<img width="215" alt="Screenshot 2024-07-19 at 11 16 14 PM" src="https://github.com/user-attachments/assets/d210ba52-ecaa-4288-8e0b-12c4c0112ea6">
 
-<img width="825" alt="Screenshot 2024-07-19 at 11 42 58 PM" src="https://github.com/user-attachments/assets/7533eab8-f213-471d-a05b-48ce5940cbd1">
+<img width="625" alt="Screenshot 2024-07-19 at 11 42 58 PM" src="https://github.com/user-attachments/assets/7533eab8-f213-471d-a05b-48ce5940cbd1">
 
 
 
