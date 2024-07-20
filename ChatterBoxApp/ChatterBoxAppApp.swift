@@ -1,5 +1,5 @@
 //=============================================================================
-// PROGRAMMERS: Elizabeth Fassler
+// PROGRAMMERS: Elizabeth Fassler, Marie Haccandy, Matthew Neal, and Javier Guevara
 // GROUP NAME: Mobile CodeCraft
 //
 // CLASS: COP4655
@@ -13,6 +13,7 @@
 //=============================================================================
 
 import SwiftUI
+import Firebase
 import FirebaseCore
 
 @main
@@ -29,4 +30,3 @@ struct ChatterBoxAppApp: App {
         }
     }
 }
-
