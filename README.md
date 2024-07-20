@@ -18,7 +18,9 @@ Github Repository: https://github.com/Mobile-CodeCraft/ChatterBox-Application/tr
 
 _____________________________________________________________________________________________________________
 Elizabeth Fassler: Created team project organization, repository, and readme file on Github.
-- Created mobile application file directory structure for both front end and back end of project.
+- Created mobile application file directory structure.
+- Created Firebase team project, authentication, and Firestore database.
+- Finished messaging feature and overall application design.
 _____________________________________________________________________________________________________________
 Marie Haccandy:
 _____________________________________________________________________________________________________________
@@ -42,6 +44,13 @@ ________________________________________________________________________________
 
 _____________________________________________________________________________________________________________
 
-<img width="222" alt="Screenshot 2024-07-17 at 9 06 56 PM" src="https://github.com/user-attachments/assets/6bb6b589-5334-49dc-bb66-85339214fad9">
+<img width="376" alt="Screenshot 2024-07-19 at 11 17 13 PM" src="https://github.com/user-attachments/assets/562021b8-edbf-478f-a49f-de89ae016852">
+
+<img width="376" alt="Screenshot 2024-07-19 at 11 16 14 PM" src="https://github.com/user-attachments/assets/d210ba52-ecaa-4288-8e0b-12c4c0112ea6">
+
+<img width="1138" alt="Screenshot 2024-07-19 at 11 42 58 PM" src="https://github.com/user-attachments/assets/7533eab8-f213-471d-a05b-48ce5940cbd1">
+
+
+
 
 _____________________________________________________________________________________________________________
