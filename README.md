@@ -27,10 +27,6 @@ ________________________________________________________________________________
 Javier Guevara:
 _____________________________________________________________________________________________________________
 
-### Team Meetings
-
-_____________________________________________________________________________________________________________
-
 ### Features
 - User Authentication: Elizabeth Fassler
 - Contacts: Javier Guevara
@@ -50,53 +46,3 @@ ________________________________________________________________________________
 <img width="222" alt="Screenshot 2024-07-17 at 9 06 56 PM" src="https://github.com/user-attachments/assets/6bb6b589-5334-49dc-bb66-85339214fad9">
 
 _____________________________________________________________________________________________________________
-
-## ChatterBox File Structure
-``` sh
-ChatterBox-Application/
-│
-├── ChatterBoxApp.xcodeproj/
-├── ChatterBoxApp/
-│                                      
-│   ├── Controllers/
-│   │   ├── Authentication/                
-│   │   │    ├── LoginView.swift           // Elizabeth Fassler
-│   │   │    └── RegisterView.swift        // Elizabeth Fassler 
-│   │   ├── ChatView.swift                 // Elizabeth Fassler
-│   │   ├── ConversationView.swift         // Elizabeth Fassler
-│   │   ├── LocationView.swift             // Elizabeth Fassler
-│   │   ├── NewConversationView.swift      // Elizabeth Fassler
-│   │   ├── PhotoView.swift                // Elizabeth Fassler 
-│   │   └── ProfileVIew.swift              // Elizabeth Fassler 
-│   │
-│   ├── Models/
-│   │   ├── ChatModels.swift
-│   │   ├── ConversationModel.swift
-│   │   ├── ProfileVIewModel.swift                                 
-│   │   └── SearchModel.swift                                                                     
-│   │
-│   ├── Resources/
-│   │   ├──
-│   │   ├──
-│   │   ├──
-│   │   ├──
-│   │   └── 
-│   │   
-│   ├── Views/
-│   ├── Assets.xcassets                    // Elizabeth Fassler 
-│   │   ├── 
-│   │   ├──                                
-│   │   ├──                                 
-│   │   └──                                 
-│   │   
-│   │
-│   │
-│   ├── GoogleService-Info.plist           // Elizabeth Fassler  
-│   ├── Info.plist                                   
-│   ├──                            
-│   └──                          
-│
-├── README.md                                 // Project README file
-├── .gitattributes                           
-└── .gitignore                                // Git ignore file
-```
