@@ -32,14 +32,13 @@ ________________________________________________________________________________
 - Contacts: Javier Guevara
 - Push Notifications: Matthew Neal
 - Status Updates: Marie Haccandy
-- Real-time Messaging: Elizabeth Fassler 
+- Firestore Database and Messaging: Elizabeth Fassler 
 
 _____________________________________________________________________________________________________________
 
 ### Libraries and Frameworks
 - SwiftUI
 - Firebase
-- Ruby
 
 _____________________________________________________________________________________________________________
 
